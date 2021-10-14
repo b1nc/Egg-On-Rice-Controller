@@ -1,0 +1,15 @@
+Break-away header 0.1" (2x10 minimum [1], 1x1 [2]) (https://www.adafruit.com/product/2822)  (https://www.adafruit.com/product/392)
+
+Kailh Low Profile Choc v1 Switches (12 switches minimum) (I used red linears to somewhat get close to the feels of Sanwa buttons but feel free to use other switches.)
+
+22 mm M6 x 1 mm Thread (8 minimum) (https://www.mcmaster.com/92095A488/)
+
+M6 x 1 mm Threat Nut (8 minimum) (https://www.mcmaster.com/91828A251/)
+
+Tactile Switch SPST (6 minimum) (https://www.digikey.com/en/products/detail/1301.9304/486-3459-ND/7602713)
+
+5.1 kOhms Through-hole Resistor (2 minimum) (https://www.digikey.com/en/products/detail/MBB02070C5101FCT00/BC3821CT-ND/7351251)
+
+HRO TYPE-C-31-M-12 (1 minimum) (https://lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html)
+
+Brook Ultimate Fighting Board (1 minimum) (requires desoldering)

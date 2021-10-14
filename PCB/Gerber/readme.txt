@@ -1,0 +1,1 @@
+If you've made adjustments to the PCB and redid the Gerber files, please put them into the Gerber.zip folder as well.

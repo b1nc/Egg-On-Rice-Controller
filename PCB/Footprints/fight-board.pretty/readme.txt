@@ -1,0 +1,1 @@
+I made the footprint and schematic for the Brook UFB, as well. It's incomplete so please credit me if you publish a completed version based on mine <:^(
