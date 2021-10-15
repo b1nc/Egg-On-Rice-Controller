@@ -24,7 +24,7 @@
  
  6 tactile push switches for menu navigations.  
  (I don't even own a PS4 or Xbox, wtf do these buttons even do.)  
- From left to right: Home, Touchpad, LSB (huh), RSB (what), share, option (the only one I use).
+ From left to right (in playing position): Home, Touchpad, LSB (huh), RSB (what), Share, Option (the only one I use).
  
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/eor5.jpg)
  
