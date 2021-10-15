@@ -11,7 +11,7 @@
 
 - *The switch footprints were made with Kailh Choc v1 switches in mind.*
 
-- *The keycaps may be too low and sits flush with the top acrylic panel. Please modify either the stem length or the blocker length to your needs.*
+- *The keycaps may be too low and sit flush with the top acrylic panel. Please modify either the stem length or the blocker length to your needs.*
 
 - *No RGB because it hurts my eyes. (I'm just too lazy to implement it.)*
 
