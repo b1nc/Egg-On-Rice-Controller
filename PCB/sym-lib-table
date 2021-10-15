@@ -3,4 +3,5 @@
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty-master/Type-C.lib)(options "")(descr ""))
   (lib (name fight_board)(type Legacy)(uri ${KIPRJMOD}/fight-board.pretty/Schematic/fight_board.lib)(options "")(descr ""))
+  (lib (name Egg_On_Rice_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/Egg_On_Rice_pcb-rescue.lib)(options "")(descr ""))
 )
