@@ -38,13 +38,11 @@
  Here's a picture of the PCB using a PCB viewer.
  
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/pcb.PNG)  
- -
- Button Orders:   
-   
- Left, Down, Right, &nbsp; &nbsp; X(Square), Y(Triangle), RB(R1), LB(L1)  
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A(Cross), B(Circle), RT(R2), LT(L2)  
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Up
- -
+
+ Buttons.
+ 
+ ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/buttons.png) 
+ 
 ## Anyways, I hope you find this useful <:^) ##
 As a wise man said, "If a fightstick exists, slap a UFB onto it and it will work."  
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/funnee.png)
