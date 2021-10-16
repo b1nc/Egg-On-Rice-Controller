@@ -76,7 +76,7 @@ In the PCB folder, there's a Gerber.zip folder within the Gerber folder. Use thi
   
 In the Acrylic Layers folder, check which set of panels you want to use and use the dxf files for cutting.  
 (Please refer to the drawing and readme for panel thickness and amount.)  
-(Also, I used SendCutSend laser cutting service for all my acrylic panels.)
+(Also, I used SendCutSend laser cutting service for all my acrylic panels.)  
   
 The button caps are made for Kailh Choc v1 switches and are in the Button Keycaps folder with both step and stl files available.  
 (I don't plan on making keycaps for MX stems, but feel free to modify the files.)  
