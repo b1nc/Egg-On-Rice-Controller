@@ -44,7 +44,7 @@
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/buttons.png) 
   
 ## Design Process ##  
-I first started out by drawing the basic outline and layout for the PCB (switches, resistors, push buttons, UFB, and switches).  
+I first started out by drawing the basic outline and layout for the PCB (switches, resistors, push buttons, and UFB).  
 
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/dp1.PNG) 
 
