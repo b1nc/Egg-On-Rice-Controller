@@ -3,11 +3,11 @@
  Heavily inspired by the "Mille-feuille" by Pomeran. https://pomegd.booth.pm/items/2685530
 -
 
-**Why is it called "Egg On Rice"? Yeah, I don't know either.**
+**Why is it called "Egg On Rice"? I love egg on rice hell yeah.**
 
-- *Feel free to modify the files to your needs and specifications but credit me for the original files please.*
+- *Feel free to modify the files to your needs and specifications but credit me for the original files, please.*
 
-- *Most of the parts used will be linked or named in the materials.txt file.*
+- *All of the parts used will be linked or named in the materials.txt file.*
 
 - *The switch footprints were made with Kailh Choc v1 switches in mind.*
 
@@ -18,17 +18,17 @@
 ![eorimg1](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/eor3.jpg)
 
  USB Type-C Connection because we live in 2020s A.D, not 2020s B.C. Micro USBs should just die.  
- (However, USB-Cs are a pain in the ass to solder, but again, I'm bad at soldering.)
+ (However, USB-Cs are a pain to hand solder, but again, I'm bad at soldering.)
  
  ![eorimg2](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/eor4.jpg)
  
  6 tactile push switches for menu navigations.  
- (I don't even own a PS4 or Xbox, wtf do these buttons even do.)  
+ (I don't even own a PS4 or Xbox, what do these buttons even do.)  
  From left to right (in playing position): Home, Touchpad, LSB (huh), RSB (what), Share, Option (the only one I use).
  
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/eor5.jpg)
  
- I couldn't find a M6 screw feet without sacrificing the overall thickness of the board, so I made the thing feetless.  
+ I couldn't find an M6 screw feet without sacrificing the overall thickness of the board, so I made the thing feetless.  
  (The back does kinda look clean, though.)
  
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/eor6.jpg)
@@ -44,43 +44,42 @@
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/buttons.png) 
   
 ## Design Process ##  
-I first started out by drawing the basic outline and layout for the PCB (switches, resistors, push buttons, and UFB).  
+Started with a drawing of the basic outline and layout for the PCB (switches, resistors, push buttons, and UFB).  
 
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/dp1.PNG) 
 
-I then exported the sketch as a dxf file and ported it into KiCad for component allignments.
+Then exported the sketch as a dxf file and ported it into KiCad for component alignments.
 
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/dp2.PNG) 
 
-The schematics for this PCB board is extremely simple. The only hard part was failing to find a UFB footprint and having to make my own. (I reused the USB C schematic from my keyboard PCB.)
+The schematics for this PCB board are extremely simple. The only hard part was failing to find a UFB footprint and having to make my own. (UFB footprint is contained in this project and free to use, while it might not look good, it gets the job done.)
 
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/dp5.PNG) 
 
-After routing the board, I added edge cuts for M6 screw holes and put in an artwork (yes, it is supposed to be egg on rice).
+After routing the board, edge cuts are added for M6 screw holes and artwork. (Feel free to edit the files to implement your personal artwork.)
 
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/dp3.PNG) 
 
-After I've corrected the base layout that is to be the +- 1 panels, I edited it into the +- 2 layers.
+Panel 1 and 2 are adjusted to fit with each other. If artwork isn't a concern, the bottom panel can also be used for the top panel to reduce cutting costs.
 
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/dp4.png) 
 
-I made the buttons caps to have a diameter of 24 mm and a height of 5 mm. The stems are made according to the Kailh Choc v1 datasheet.
-(I originally used the keycap file made by Pomeran but the stems and diameter were too large after receiving the parts. Always make sure your files are in the right dimensions)  
+Cap dimensions are made to fit almost flush with the top panels while the stems are made according to the Kailh Choc v1 datasheet.
  ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/keycap_model.PNG) 
 
 ## Building Instructions ##
 All of the files needed are in this repo.
 
 In the PCB folder, there's a Gerber.zip folder within the Gerber folder. Use this for PCB manufacturing.  
-(I used JLCPCB for manufacturing the PCBs.)  
+(I used JLCPCB for PCB prototyping.)  
   
 In the Acrylic Layers folder, check which set of panels you want to use and use the dxf files for cutting.  
 (Please refer to the drawing and readme for panel thickness and amount.)  
-(Also, I used SendCutSend laser cutting service for all my acrylic panels.)  
+(I used SendCutSend laser cutting service for all my acrylic panels.)  
   
 The button caps are made for Kailh Choc v1 switches and are in the Button Keycaps folder with both step and stl files available.  
 (I don't plan on making keycaps for MX stems, but feel free to modify the files.)  
-(Sculpteo has amazing pricings for small 3D prints like these caps.)  
+(Sculpteo has amazing prices for small 3D prints like these caps.)  
 
 ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/keycaps.jpg) 
   
@@ -94,6 +93,4 @@ The UFB is connected by headers, and you should only need to solder the 2x10 but
 
 ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/solder_points.png) 
   
-## Anyways, I hope you find this useful <:^) ##
-As a wise man said, "If a fightstick exists, slap a UFB onto it and it will work."  
- ![eorimg3](https://github.com/b1nc/Egg-On-Rice-Controller/blob/main/imgs/funnee.png)
+## Have fun making your very own hitbox-styled compact controller! :^) ##
